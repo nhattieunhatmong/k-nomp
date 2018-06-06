@@ -32,7 +32,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/yoshuki43/k-nomp.git"
+        "url": "https://github.com/nhattieunhatmong/k-nomp.git"
     },
     "dependencies": {
         "async": "2.3.0",
